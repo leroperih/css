@@ -1,0 +1,17 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+
+
+/* TELAS PEQUENAS */
+
+
+
+:root
+{
+    --study-color-01: var(--color-study-css-01);
+    --study-color-02: var(--color-study-css-02);
+    --study-color-03: var(--color-study-css-03);
+}
+
+
+
